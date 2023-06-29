@@ -49,6 +49,7 @@ int main()
 
     // Display the linked list
     displayList(head);
+    printf("hi");
 
     return 0;
 }

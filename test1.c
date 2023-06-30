@@ -34,7 +34,6 @@ void displayList(struct Node *head)
         currNode = currNode->next;
     }
     printf("NULL\n");
-    printf("hello");
 }
 
 int main()
@@ -49,7 +48,6 @@ int main()
 
     // Display the linked list
     displayList(head);
-    printf("hi");
 
     return 0;
 }

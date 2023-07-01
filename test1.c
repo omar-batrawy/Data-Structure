@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
+<<<<<<< HEAD
 struct Node
 {
 
@@ -51,3 +52,9 @@ int main()
 
     return 0;
 }
+=======
+void main() {
+    int a = 10;
+    
+}
+>>>>>>> 51dd4fd5c98b5453cf18f83d0daf2a0824d58912
